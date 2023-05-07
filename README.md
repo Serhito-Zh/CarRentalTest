@@ -25,8 +25,8 @@ Used technologies and approaches
     Running the Solution
 </h2>
 
+
 <div>
-<code>
 
     # Clone to repository
     $ git clone https://github.com/Serhito-Zh/CarRentalTest.git
@@ -38,8 +38,7 @@ Used technologies and approaches
     $ dotnet restore
     
     # Run the application from the WebApi layer
- </code>
-</div>
+ </div>
 
 <h2>
 Architecture
