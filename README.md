@@ -3,7 +3,7 @@
 </h1>
 
 <p align=”center”>
-    <img src=”https://user-images.githubusercontent.com/132525576/236679882-3f9af523-bf89-47d4-8aba-028225984d27.jpg" alt=”Car Rental”>
+    <img src=”https://user-images.githubusercontent.com/132525576/236681486-ca5f973d-f277-457c-8ff8-88b4905d61db.jpg" alt=”solution banner” style="max-width: 100%;">
 </p>
 
 <h2>
