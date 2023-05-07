@@ -1,0 +1,17 @@
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Presentation\bin\Debug\net6.0\CarRental.Presentation.deps.json
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Presentation\bin\Debug\net6.0\CarRental.Presentation.dll
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Presentation\bin\Debug\net6.0\ref\CarRental.Presentation.dll
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Presentation\bin\Debug\net6.0\CarRental.Presentation.pdb
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Presentation\bin\Debug\net6.0\CarRental.Application.dll
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Presentation\bin\Debug\net6.0\CarRental.Domain.dll
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Presentation\bin\Debug\net6.0\CarRental.Application.pdb
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Presentation\bin\Debug\net6.0\CarRental.Domain.pdb
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Presentation\obj\Debug\net6.0\CarRental.Presentation.csproj.AssemblyReference.cache
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Presentation\obj\Debug\net6.0\CarRental.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Presentation\obj\Debug\net6.0\CarRental.Presentation.AssemblyInfoInputs.cache
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Presentation\obj\Debug\net6.0\CarRental.Presentation.AssemblyInfo.cs
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Presentation\obj\Debug\net6.0\CarRental.Presentation.csproj.CoreCompileInputs.cache
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Presentation\obj\Debug\net6.0\CarRental.Presentation.csproj.CopyComplete
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Presentation\obj\Debug\net6.0\CarRental.Presentation.dll
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Presentation\obj\Debug\net6.0\ref\CarRental.Presentation.dll
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Presentation\obj\Debug\net6.0\CarRental.Presentation.pdb

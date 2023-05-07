@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\CarRental.Infrastructure\\CarRental.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\CarRental.Application\\CarRental.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\CarRental.Application\\CarRental.Application.csproj",
+        "projectName": "CarRental.Application",
+        "projectPath": "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\CarRental.Application\\CarRental.Application.csproj",
+        "packagesPath": "C:\\Users\\zhuk-\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\CarRental.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zhuk-\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\CarRental.Domain\\CarRental.Domain.csproj": {
+                "projectPath": "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\CarRental.Domain\\CarRental.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\CarRental.Domain\\CarRental.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\CarRental.Domain\\CarRental.Domain.csproj",
+        "projectName": "CarRental.Domain",
+        "projectPath": "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\CarRental.Domain\\CarRental.Domain.csproj",
+        "packagesPath": "C:\\Users\\zhuk-\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\CarRental.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zhuk-\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\CarRental.Infrastructure\\CarRental.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\CarRental.Infrastructure\\CarRental.Infrastructure.csproj",
+        "projectName": "CarRental.Infrastructure",
+        "projectPath": "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\CarRental.Infrastructure\\CarRental.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\zhuk-\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\CarRental.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zhuk-\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\CarRental.Application\\CarRental.Application.csproj": {
+                "projectPath": "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\CarRental.Application\\CarRental.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "System.Data.SQLite.Core": {
+              "target": "Package",
+              "version": "[1.0.117, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

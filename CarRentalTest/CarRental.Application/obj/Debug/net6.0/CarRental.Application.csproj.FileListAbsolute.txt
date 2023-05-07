@@ -1,0 +1,15 @@
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Application\bin\Debug\net6.0\CarRental.Application.deps.json
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Application\bin\Debug\net6.0\CarRental.Application.dll
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Application\bin\Debug\net6.0\ref\CarRental.Application.dll
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Application\bin\Debug\net6.0\CarRental.Application.pdb
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Application\bin\Debug\net6.0\CarRental.Domain.dll
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Application\bin\Debug\net6.0\CarRental.Domain.pdb
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Application\obj\Debug\net6.0\CarRental.Application.csproj.AssemblyReference.cache
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Application\obj\Debug\net6.0\CarRental.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Application\obj\Debug\net6.0\CarRental.Application.AssemblyInfoInputs.cache
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Application\obj\Debug\net6.0\CarRental.Application.AssemblyInfo.cs
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Application\obj\Debug\net6.0\CarRental.Application.csproj.CoreCompileInputs.cache
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Application\obj\Debug\net6.0\CarRental.Application.csproj.CopyComplete
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Application\obj\Debug\net6.0\CarRental.Application.dll
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Application\obj\Debug\net6.0\ref\CarRental.Application.dll
+C:\Development\Interview Preparation\TechnicalTestProject\CarRentalTest\CarRental.Application\obj\Debug\net6.0\CarRental.Application.pdb

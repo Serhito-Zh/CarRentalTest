@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\Domain\\Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\zhuk-\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\Interview Preparation\\TechnicalTestProject\\CarRentalTest\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zhuk-\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://rc.em-engin.ru:20443/api/v4/projects/4/packages/nuget/index.json": {},
+          "https://rc.em-engin.ru:20443/cbc-backend/cbc-common-nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
