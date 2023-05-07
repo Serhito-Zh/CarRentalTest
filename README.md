@@ -3,7 +3,7 @@
 </h1>
 
 <p align=”center”>
-    <img src=”https://user-images.githubusercontent.com/132525576/236681486-ca5f973d-f277-457c-8ff8-88b4905d61db.jpg" alt=”solution banner” style="max-width: 100%;">
+    <img src=”https://user-images.githubusercontent.com/132525576/236681925-2dcc2386-da01-403d-b80a-9d6d5d4356e0.png" alt=”solution banner” style="max-width: 100%;">
 </p>
 
 <h2>
