@@ -2,9 +2,7 @@
     CarRentalTest
 </h1>
 
-<p align=”center”>
-    <img src=”https://user-images.githubusercontent.com/132525576/236681925-2dcc2386-da01-403d-b80a-9d6d5d4356e0.png" alt=”solution banner” style="max-width: 100%;">
-</p>
+![banner (small)](https://user-images.githubusercontent.com/132525576/236681925-2dcc2386-da01-403d-b80a-9d6d5d4356e0.png)
 
 <h2>
     Introduction
